@@ -13,13 +13,13 @@
         <description>Updates for AI Limits</description>
         <language>en</language>
         <item>
-            <title>2.3.1</title>
-            <pubDate>Wed, 12 Aug 2026 10:11:10 +0530</pubDate>
+            <title>2.3.2</title>
+            <pubDate>Sun, 23 Aug 2026 18:14:09 +0530</pubDate>
             <link>https://github.com/ayushnayyar/AI-Limits-releases</link>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>2.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ayushnayyar/AI-Limits-releases/releases/download/v2.3.1/AI-Limits-2.3.1.dmg" length="5239148" type="application/octet-stream" sparkle:edSignature="O0tBvmCqQVp4fofnA3PP/9kzNbJltb30/QbrXZCRM4SKDMiBj9RIXuD0BXeh4S3tJ6pu8IYV0Bax2zJtLrgCAA=="/>
+            <enclosure url="https://github.com/ayushnayyar/AI-Limits-releases/releases/download/v2.3.2/AI-Limits-2.3.2.dmg" length="5245425" type="application/octet-stream" sparkle:edSignature="1n4qNt8pilnpuGzj5035VmlaPlPnjH0kxOjKXA54Q2r1YCOgCS/8qFwRxwHk+nU9K5IZdWgwAr36IgjwykyWBw=="/>
         </item>
     </channel>
 </rss>
